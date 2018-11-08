@@ -1,0 +1,79 @@
+.h2{
+    font-family: 'EB Garamond', serif;
+}
+h1{
+    text-align: center;
+    font-family: 'Cinzel', serif;
+}
+body{
+    background-color:black;
+    color:white;
+}
+.cmbyn{
+    height:500px;
+    width:500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border:ridge;
+}
+p{
+    text-align:center;
+}
+.ram{
+    height:300px;
+    width:50%; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border:inset;
+    
+}
+.daria{
+     height:300px;
+    width:700px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border:outset;
+    text-decoration:underline;
+}
+.kb{
+    width:500px;
+    height:400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border:groove;
+}
+.emo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border:inset;
+}
+p{
+ font-family: 'Playfair Display SC', serif;
+}
+.win{
+    color:white;
+}
+/* unvisited link */
+a:link {
+    color: white;
+}
+.rose{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border:groove;
+}
+.tlc{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border:groove;
+    width:400px;
+    height:300px;
+}
